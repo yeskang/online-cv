@@ -41,7 +41,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-    Yesung Kang is with Postech Future IT Innovation Laboratory, Postech, Korea. His research interests are energy-efficient circuit design for deep learning accelerator, multi-valued logic and approximate computing. He is speciallized in Verilog/C/Python/Tcl.
+    #Yesung Kang is with Postech Future IT Innovation Laboratory, Postech, Korea. His research interests are energy-efficient circuit design for deep learning accelerator, multi-valued logic and approximate computing. He is speciallized in Verilog/C/Python/Tcl.
  
 education:
     - degree: Combined MSc/PhD in Electrical Engineering
